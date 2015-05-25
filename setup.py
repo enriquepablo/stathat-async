@@ -17,7 +17,7 @@ if sys.argv[-1] == "publish":
 required = ['stathat']
 
 setup(
-    name='stathat-async',
+    name='stathat_async',
     version='0.0.3',
     description='A simple multithreaded async API wrapper for StatHat.com',
     author='Jamie Matthews',
